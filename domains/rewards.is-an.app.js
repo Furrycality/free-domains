@@ -1,5 +1,5 @@
 addSubDomain({
-  description: 'Software landing page',
+  description: 'A website to collect rewards points easily.',
   domain: 'is-an.app',
   subdomain: 'rewards',
   owner: {
